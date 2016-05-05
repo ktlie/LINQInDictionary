@@ -1,0 +1,10 @@
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\bin\Debug\DictionaryWhatIs.exe
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\bin\Debug\DictionaryWhatIs.pdb
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.exe
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.pdb
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.csprojResolveAssemblyReference.cache
+Z:\ASPNet\ASP.NET_MVC_4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.exe
+Z:\ASPNet\ASP.NET_MVC_4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.pdb
+Z:\ASPNet\ASP.NET_MVC_4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\bin\Debug\DictionaryWhatIs.exe
+Z:\ASPNet\ASP.NET_MVC_4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\bin\Debug\DictionaryWhatIs.pdb
+Z:\ASPNet\ASP.NET_MVC_4.0\Self_Project\PragimTechnologies\CSharp\DictionaryWhatIs\DictionaryWhatIs\obj\x86\Debug\DictionaryWhatIs.csprojResolveAssemblyReference.cache
